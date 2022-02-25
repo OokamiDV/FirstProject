@@ -9,7 +9,7 @@ var testAge = document.querySelector('.testAge');
     
     if (age >=17){ audioChooseUdest.play(); (window.location.href = 'index.html');
 
-    }else{ (window.location.href = 'index2.html');
+    }else{ (window.location.href = 'end.html');
 
     }
 }
